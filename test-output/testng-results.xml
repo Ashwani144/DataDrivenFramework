@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="14643" started-at="2023-07-05T13:49:49Z" finished-at="2023-07-05T13:50:04Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="14643" started-at="2023-07-05T13:49:49Z" finished-at="2023-07-05T13:50:04Z">
+      <class name="org.automation.workstatus.testcases.TC__001_ValidateLoginFunctionality">
+        <test-method status="PASS" signature="initiateDriverInstance()[pri:0, instance:org.automation.workstatus.testcases.TC__001_ValidateLoginFunctionality@4157f54e]" name="initiateDriverInstance" is-config="true" duration-ms="13916" started-at="2023-07-05T19:19:49Z" finished-at="2023-07-05T19:20:03Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initiateDriverInstance -->
+        <test-method status="PASS" signature="tc_001login_functionality()[pri:0, instance:org.automation.workstatus.testcases.TC__001_ValidateLoginFunctionality@4157f54e]" name="tc_001login_functionality" duration-ms="474" started-at="2023-07-05T19:20:03Z" finished-at="2023-07-05T19:20:03Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc_001login_functionality -->
+        <test-method status="PASS" signature="closeDriverInstance()[pri:0, instance:org.automation.workstatus.testcases.TC__001_ValidateLoginFunctionality@4157f54e]" name="closeDriverInstance" is-config="true" duration-ms="233" started-at="2023-07-05T19:20:03Z" finished-at="2023-07-05T19:20:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeDriverInstance -->
+      </class> <!-- org.automation.workstatus.testcases.TC__001_ValidateLoginFunctionality -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
